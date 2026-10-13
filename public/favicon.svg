@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#10110F"/>
+  <polygon points="50,12 88,29 88,71 50,88 12,71 12,29" stroke="#C89536" stroke-width="4" fill="none"/>
+  <path d="M26 42 L50 24 L74 42" stroke="#E4BD70" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+  <path d="M38 54 C38 48 44 42 44 38 C44 42 50 48 50 54 C50 58 46 61 44 61 C41 61 38 58 38 54 Z" fill="#E4BD70"/>
+  <path d="M56 38 L48 52 L56 52 L50 68 L64 50 L56 50 Z" fill="#C89536"/>
+  <text x="50" y="80" text-anchor="middle" fill="#F5F0E7" font-size="12" font-family="sans-serif" font-weight="bold">RRE</text>
+</svg>
